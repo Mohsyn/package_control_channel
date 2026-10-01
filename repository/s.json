@@ -5206,6 +5206,26 @@
 			]
 		},
 		{
+			"name": "subLiNe edit",
+			"details": "https://github.com/mohsyn/subline",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/mohsyn/subline",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+
+		{
 			"name": "Sublitesse Color Scheme",
 			"details": "https://github.com/hhofner/sublitesse",
 			"labels": ["color scheme"],
