@@ -5209,20 +5209,10 @@
 			"name": "subLiNe edit",
 			"details": "https://github.com/mohsyn/subline",
 			"labels": ["find", "search", "regex", "filter", "snippets"],
-			"author": "Mohsyn",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
 					"tags": true
-				}
-			]
-		},
-		{
-			"details": "https://github.com/mohsyn/subline",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
 				}
 			]
 		},
